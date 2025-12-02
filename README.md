@@ -200,4 +200,4 @@ Copyright (c) 2024 ...
 
 ## 🙋‍♂️ Author
 
-- **Name:** \<Kalpan Patel\>  
+- **Name:** Kalpan Patel  
